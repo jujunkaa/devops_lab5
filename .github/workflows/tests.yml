@@ -1,7 +1,5 @@
 name: Test Python App
-on:
-  push:
-    branches: ['dev']
+on: [push]
 
 jobs:
   test:
